@@ -7,6 +7,8 @@ This is an on progress jQuery slider, many features are yet to come.
 
 Sample Implementation
 ---------------------
+See the demo at http://broncha.github.com/jquery-sailit/
+
 
 Include the library
 
