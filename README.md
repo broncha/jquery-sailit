@@ -14,7 +14,7 @@ Include the library
     <link href="../lib/jquery.sailit.css" type="text/css" rel="stylesheet" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
     <script src="../lib/jquery.sailit.js" type="text/javascript"></script>
-```html
+```
 
 ```html
     <div id="slider">
