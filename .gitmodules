@@ -1,0 +1,3 @@
+[submodule "sailit"]
+	path = sailit
+	url = https://github.com/broncha/jquery-sailit.git
