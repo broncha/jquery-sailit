@@ -28,9 +28,9 @@ Include the library
 
 ```javascript
     $(function(){
-        $('#slider').flowSlide({
-            width:800,
-            height:450
+        $('#slider').sailit({
+            width:700,
+            height:400
         });
     });
 
