@@ -1,0 +1,39 @@
+/* 
+    Document   : demo
+    Created on : Sep 30, 2012, 11:53:37 AM
+    Author     : Broncha <broncha@rajesharma.com>
+*/
+
+body{
+   background: #4CBBD3;
+   padding: 0;
+   margin:0;
+}
+
+.header{
+    padding:20px 0;
+}
+
+.header h1{
+    font-family: 'Sarina', cursive;
+    font-size: 50px;
+    text-shadow: 2px 4px 4px #666677;
+    font-style: italic;
+    color:#ee7722;
+    margin:0;
+    padding:0;
+}
+
+.wrapper{width:80%; margin: 0 auto;}
+
+#slider{ margin: 0 auto;}
+
+.footer{
+    position:absolute;
+    bottom:0;
+    height:80px;
+    background:#000;
+    width:100%;
+    padding:0;
+    margin:0;
+}

@@ -1,0 +1,26 @@
+/* 
+    Document   : flowSlider
+    Created on : Sep 30, 2012, 11:51:57 AM
+    Author     : Broncha <broncha@rajesharma.com>
+    
+*/
+
+.flowSliderWrap{
+    overflow: hidden;
+    margin: 0 auto;
+    position:relative;
+    border: 1px solid #666677;
+    padding:5px;
+}
+
+.flowSliderWrap img{
+    max-width: 110%;
+    position:absolute;
+    top:0;
+    left:0;
+    opacity:0;
+    z-index:8;
+}
+
+.flowSliderWrap img.active {z-index:10; opacity:1.0; }
+.flowSliderWrap img.last-active {z-index:9;}
